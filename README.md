@@ -73,6 +73,6 @@ This project demonstrates how A/B testing and funnel analysis can be used to sup
 
 ---
 ## 👤 Author
-Akhil  
+Jagadeesh  
 Aspiring Data Analyst  
-🔗 [LinkedIn](http://www.linkedin.com/in/vankayalapati-akhil)
+🔗 [LinkedIn](https://www.linkedin.com/in/polepalli-venkata-jagadeesh-4a1a1226a)
